@@ -1,0 +1,35 @@
+/*Name-Souhardya Das Chowdhury
+8837242124
+souhardyadaschow2016@gmail.com
+College-IIT Patna*/
+
+Not answering Question wise(1 and 2 separate),rather compressing as a whole--
+Since,the users are mostly of blue collared/low income category people,the few possible reasons for credit card company to incur losses-
+1)They don't transact enough ,so their initial debts dont get cleared.
+ Possible solutions-Suppose,give those credit cards a special bonus--i.e discount on goods bought from merchants(Slightly lessen ur
+processing fees,and invest those money in the merchants->discount to the credit card user).It will increase the number of transactions,
+and hence chance of redeem the past interests/debts by the issuing bank.
+
+2)Constancy in number of users-
+No of users need to be increased.In such a situation,u can offer them Rs X points on Y successful(implies the referred person makes payment,
+to some extent like Dream11) referrals.
+     In the above point as given,these points will be redeemable once they maintain(don't cross) a certain unpaid limits.However,upper limit
+must not be lessened as it would lead to One time users.
+
+3)For Various other startups/sponsors(Example-utensils,low cost city-gold company who wants to increase their users),u can advertise them(I 
+mean,gift an user with X+ numbers of credit card transactions).
+
+4)Sell the highly loss making accounts to the  debt acquiring companies.(Its very less feasible,as the users don't have much asset)
+
+
+5)Momentarily,reduce the interest on debts.
+
+
+//These are some of the possible questions and answers I could think of.
+Topics I read before writing it-
+1)P & L statement.
+2)Procedure how credit card companies make money.
+Resources-
+1)https://www.slideshare.net/RatnakarPandey6/credit-cards-basics-and-banks-profit-and-loss-statement
+2)Myself,Google,quora,youtube videos etc .
+   
